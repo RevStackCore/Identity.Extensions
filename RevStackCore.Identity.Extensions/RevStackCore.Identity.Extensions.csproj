@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard1.6</TargetFramework>
     <PackageId>RevStackCore.Identity.Extensions</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.1.0</PackageVersion>
     <Authors>S. Francis</Authors>
     <Description>Identity managers and IdentityBuilder extensions for the generic RevStackCore implementation of Microsoft.AspNetCore.Identity</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
@@ -15,7 +15,7 @@
     <AssemblyName>RevStackCore.Identity.Extensions</AssemblyName>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="RevStackCore.Identity" Version="1.0.3" />
+    <PackageReference Include="RevStackCore.Identity" Version="1.1.0" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Extensions\" />
