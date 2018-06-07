@@ -1,6 +1,6 @@
 {
   "name": "RevStackCore.Identity.Extensions",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Identity managers and IdentityBuilder extensions for the generic RevStackCore implementation of Microsoft.AspNetCore.Identity",
   "main": "RevStackCore.Identity.Extensions.sln",
   "scripts": {

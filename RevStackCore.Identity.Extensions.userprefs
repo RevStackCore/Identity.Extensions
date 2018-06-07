@@ -1,7 +1,7 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="RevStackCore.Identity.Extensions/Managers/RoleManager.cs">
     <Files>
-      <File FileName="RevStackCore.Identity.Extensions/Managers/RoleManager.cs" Line="13" Column="15" />
+      <File FileName="RevStackCore.Identity.Extensions/Managers/RoleManager.cs" Line="3" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
