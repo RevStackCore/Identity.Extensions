@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>RevStackCore.Identity.Extensions</PackageId>
-    <PackageVersion>2.0.2</PackageVersion>
+    <PackageVersion>2.0.3</PackageVersion>
     <Authors>S. Francis</Authors>
     <Description>Identity managers and IdentityBuilder extensions for the generic RevStackCore implementation of Microsoft.AspNetCore.Identity</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
