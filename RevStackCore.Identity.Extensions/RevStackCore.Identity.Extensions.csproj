@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>RevStackCore.Identity.Extensions</PackageId>
-    <PackageVersion>2.1.0</PackageVersion>
+    <PackageVersion>2.2.0</PackageVersion>
     <Authors>S. Francis</Authors>
     <Description>Identity managers and IdentityBuilder extensions for the generic RevStackCore implementation of Microsoft.AspNetCore.Identity</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
@@ -11,7 +11,7 @@
     <PackageProjectUrl>https://github.com/RevStackCore/Identity.Extensions</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/RevStackCore/Identity.Extensions/blob/master/LICENSE</PackageLicenseUrl>
     <PackageIconUrl>https://s3.amazonaws.com/revstack/icons/revstackcore-64x64.png</PackageIconUrl>
-    <Copyright>Copyright 2017</Copyright>
+    <Copyright>Copyright 2019</Copyright>
     <PackageTags>RevStackCore AspNetCore Identity Extensions</PackageTags>
     <OutputType>Library</OutputType>
     <RootNamespace>RevStackCore.Identity.Extensions</RootNamespace>
@@ -22,6 +22,6 @@
     <Folder Include="Managers\" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="RevStackCore.Identity" Version="2.1.0" />
+    <PackageReference Include="RevStackCore.Identity" Version="2.2.0" />
   </ItemGroup>
 </Project>
