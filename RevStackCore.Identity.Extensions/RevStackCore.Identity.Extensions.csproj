@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
     <PackageId>RevStackCore.Identity.Extensions</PackageId>
-    <PackageVersion>9.0.1</PackageVersion>
+    <PackageVersion>9.0.0</PackageVersion>
     <Authors>S. Francis</Authors>
     <Description>Identity managers and IdentityBuilder extensions for the generic RevStackCore implementation of Microsoft.AspNetCore.Identity</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
@@ -23,6 +23,6 @@
     <Folder Include="Managers\" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="RevStackCore.Identity" Version="9.0.1" />
+    <PackageReference Include="RevStackCore.Identity" Version="9.0.0" />
   </ItemGroup>
 </Project>
